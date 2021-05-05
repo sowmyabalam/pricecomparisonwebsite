@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import time
-headers = {'User-Agent': 'type user agent'}
+headers = {'User-Agent': 'type  your user agent'}
 
 flipkart=''
 ebay=''
