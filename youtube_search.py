@@ -6,7 +6,7 @@ def search(item):
 	search_url='https://www.googleapis.com/youtube/v3/search'
 	video_url='https://www.googleapis.com/youtube/v3/videos'
 
-	YOUTUBE_API_KEY='AIzaSyAvV8MJw2R6SIqY6leuZmiAEPB6w-3TN8M'
+	YOUTUBE_API_KEY='Type your Api key'
 
 	search_params={
 		'key':YOUTUBE_API_KEY,
