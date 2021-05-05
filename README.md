@@ -10,6 +10,8 @@ you also have add you user agent in the pricecomparison.py
 Inorder to get it. Go to your chrome browser and type "My user agent".
 copy the text you got and replace in the my user agent of " Headers={'User-Agent': My user agent} " in the pricecomparison.py
 download latest version of BeautifulSoup using "pip install BeautifulSoup" in the cmd prompt.
+you also need to get youtube api key. you can get it by following this  link "https://www.youtube.com/watch?v=sVEytWDWYwM"
+Then replace your api key in the place of your api key in  "YOUTUBE_API_KEY= 'your api key' " which is present in youtube_search.py"
 
 after setting up the things run the app.py file using "python app.py" command in the cmd prompt.
 
