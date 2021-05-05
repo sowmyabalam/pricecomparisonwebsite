@@ -6,6 +6,8 @@ This website created in flask python. It is a comparison webiste which compares 
 requirements:----
 
 1.download the latest version of python and flask.
+
+
 2.you also have add you user agent in the pricecomparison.py
 
 Inorder to get it. Go to your chrome browser and type "My user agent".
@@ -17,9 +19,9 @@ copy the text you got and replace in the "type your user agent" of " Headers={'U
 
 4.you also need to get youtube api key. you can get it by following this  link "https://www.youtube.com/watch?v=sVEytWDWYwM"
 
-Then replace your api key in the place of ' type your api key' in  "YOUTUBE_API_KEY= ' type your api key' " which is present in youtube_search.py"
+  Then replace your api key in the place of ' type your api key' in  "YOUTUBE_API_KEY= ' type your api key' " which is present in youtube_search.py"
 
-after setting up the things run the app.py file using "python app.py" command in the cmd prompt.
+5.after setting up the things run the app.py file using "python app.py" command in the cmd prompt.
 
 you will get a url. paste the url in the chrome browser and press enter.
 
